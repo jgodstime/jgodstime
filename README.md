@@ -18,7 +18,7 @@ I live in Nigeria 🇳🇬.
 ---
 
 ### Welcome here.
-- :heart: I am christian, PHP/Laravel Dev.
+- :heart: I am a PHP/Laravel Dev.
 - ![Laravel](https://img.shields.io/badge/--white?logo=laravel) I love code in Laravel (my honey :heart:).
 
 - :book: **I am ever studing:** (just the things I love, of course).
