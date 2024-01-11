@@ -26,7 +26,7 @@ I live in Nigeria 🇳🇬.
 - 🌱 **I’m currently learning:** Flutter and Nodejs
 - 👯 **I’m a creator of:** [Laravel Error Notifier](https://github.com/jgodstime/laravel-error-notifier)
 - 🤔 **I’m looking for help with** Flutter and Nodejs
-- 💬 **Ask me about:** Laravel, PHP, HTML, CSS, bootstrap, Javascript and Vuejs.
+- 💬 **Ask me about:** Laravel, PHP, Nestjs, HTML, CSS, bootstrap, Javascript and Vuejs.
 - 📫 **How to reach me:** [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin)](https://www.linkedin.com/in/godstime-john) | [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=Telegram)](https://telegram.me/godstimejohn)
 - 😄 **Pronouns:** He/Him
 <!--
@@ -54,7 +54,7 @@ I live in Nigeria 🇳🇬.
 ### Bio
 
 #### [en]
-I am a full-stack web developer with over 5 years of expertise in crafting scalable web applications and APIs. My hallmark is the production of clean, well-structured code, resulting in robust, high-performance web applications. My work has consistently driven revenue growth, accelerated customer acquisition, boosted web traffic, and provided a competitive edge in the industry. I specialize in HTML5, CSS3, as well as frameworks such as Laravel, Vue.js, and Nuxt.js. 
+I am a full-stack web developer with over 6 years of expertise in crafting scalable web applications and APIs. My hallmark is the production of clean, well-structured code, resulting in robust, high-performance web applications. My work has consistently driven revenue growth, accelerated customer acquisition, boosted web traffic, and provided a competitive edge in the industry. I specialize in HTML5, CSS3, as well as frameworks such as Laravel, Vue.js, and Nuxt.js. 
 
 ---
 
