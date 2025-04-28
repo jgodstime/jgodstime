@@ -54,7 +54,7 @@ I live in Nigeria 🇳🇬.
 ### Bio
 
 #### [en]
-I am a full-stack web developer with over 6 years of expertise in crafting scalable web applications and APIs. My hallmark is the production of clean, well-structured code, resulting in robust, high-performance web applications. My work has consistently driven revenue growth, accelerated customer acquisition, boosted web traffic, and provided a competitive edge in the industry. I specialize in HTML5, CSS3, as well as frameworks such as Laravel, Vue.js, and Nuxt.js. 
+I am a full-stack web developer with over 7 years of expertise in crafting scalable web applications and APIs. My hallmark is the production of clean, well-structured code, resulting in robust, high-performance web applications. My work has consistently driven revenue growth, accelerated customer acquisition, boosted web traffic, and provided a competitive edge in the industry. I specialize in HTML5, CSS3, as well as frameworks such as Laravel, Vue.js, and Nuxt.js. 
 
 ---
 
